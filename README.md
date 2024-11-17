@@ -18,4 +18,4 @@ This repository contains the comprehensive web presence analysis of Apple Inc., 
 - BuzzSumo
 
 ## View the final deliverable:
-- [Download the final PowerPoint presentation](path-to-ppt)
+- [Download the final PowerPoint presentation]https://github.com/rajmurt/Web-Presence-Analysis-and-Recommendations-for-Apple-Inc./blob/46023522c4dea0095cf1d445e60d844fb87691bf/Web-Presence-Analysis-and-Recommendations-for-Apple-Inc..pptx
